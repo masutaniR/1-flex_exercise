@@ -30,6 +30,7 @@ main {
 .main2 {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   flex-grow: 1;
   max-width: 700px;
   padding: 20px;
